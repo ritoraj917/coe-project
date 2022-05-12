@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/coe-project/static/css/main.aaf03873.css",
+    "main.js": "/coe-project/static/js/main.63ef878f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/coe-project/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/JGEC_logo.png": "/coe-project/static/media/JGEC_logo.4e1dade537a85de14b64.png",
+    "static/media/logo.png": "/coe-project/static/media/logo.294c850428a9bf60a5cb.png",
+    "index.html": "/coe-project/index.html",
+    "main.aaf03873.css.map": "/coe-project/static/css/main.aaf03873.css.map",
+    "main.63ef878f.js.map": "/coe-project/static/js/main.63ef878f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/coe-project/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaf03873.css",
+    "static/js/main.63ef878f.js"
+  ]
+}
