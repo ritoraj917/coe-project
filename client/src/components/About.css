@@ -1,0 +1,65 @@
+#ui {
+    background-color: #f2f1ed; 
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 10px;
+  }
+  #ui label{
+    color: #000;
+  }
+  #x {
+      padding: 50px;
+  }
+  #button {
+    align-self: center;
+    font-size: medium;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    padding: 5px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  #button1 {
+        align-self: center;
+        font-size: medium;
+        color: black;
+        background-color: #f2f1ed;
+        border-radius: 8px;
+        padding: 5px;
+        display: inline-block;
+        text-align: center;
+        cursor: pointer;
+        font-size: 18px;
+  }
+  .emp-profile {
+    padding: 30px;
+    box-shadow: 0px 2px 10px;
+    border-radius: 20px;
+    background-color: white;
+  }
+  #details {
+      align-content: center;
+
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    background-color: #f2f1ed; 
+  }
+  h4 {
+    color: black;
+    font-size: 18px;
+  }
+  #im {
+      height: 200px;
+      width: 200px;
+      border-radius: 80px;
+  }
+  img {
+      height: 90px;
+  }
